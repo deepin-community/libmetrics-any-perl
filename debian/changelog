@@ -1,0 +1,39 @@
+libmetrics-any-perl (0.07-1) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>  Wed, 25 May 2022 15:25:33 +0800
+
+libmetrics-any-perl (0.07-1) unstable; urgency=medium
+
+  * Import upstream version 0.07.
+  * Update years of upstream and packaging copyright.
+  * Declare compliance with Debian Policy 4.6.0.
+
+ -- gregor herrmann <gregoa@debian.org>  Tue, 28 Sep 2021 18:37:28 +0200
+
+libmetrics-any-perl (0.06-1) unstable; urgency=medium
+
+  * Import upstream version 0.06.
+
+ -- gregor herrmann <gregoa@debian.org>  Tue, 07 Jul 2020 22:44:56 +0200
+
+libmetrics-any-perl (0.05-2) unstable; urgency=medium
+
+  * Source-only no-change re-upload.
+
+ -- gregor herrmann <gregoa@debian.org>  Sat, 13 Jun 2020 03:14:25 +0200
+
+libmetrics-any-perl (0.05-1) unstable; urgency=medium
+
+  * Import upstream version 0.05.
+  * Add new test and runtime dependencies.
+  * Bump debhelper-compat to 13.
+
+ -- gregor herrmann <gregoa@debian.org>  Mon, 18 May 2020 19:06:28 +0200
+
+libmetrics-any-perl (0.03-1) unstable; urgency=low
+
+  * Initial release (closes: #960114).
+
+ -- gregor herrmann <gregoa@debian.org>  Sat, 09 May 2020 16:16:39 +0200
